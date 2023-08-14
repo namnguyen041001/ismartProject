@@ -1,0 +1,31 @@
+body{
+    font-size: 14px;
+    /* background-color: #e9e7e7 !important; */
+    line-height: 23px;
+    font-family: arial;
+}
+#wrapper-form-login{
+    max-width: 325px;
+    background-color: aliceblue;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 7px;
+    padding: 26px 25px 15px;
+}
+#form-login #username, #form-login #password, #form-login #fullname, #form-login #email{
+    border: none;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 9px;
+    display: block;
+    background: #e3e3f0;
+}
+#form-login #submit{
+    display: block;
+    width: 100%;
+    background: #59a6e0;
+    color: #fff;
+    padding: 7px;
+    font-size: 16px;
+    border: none;
+}

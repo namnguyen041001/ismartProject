@@ -1,0 +1,16 @@
+#wrapper .container .row .alert .order-success{
+    font-size: 18px;
+    color: green;
+}
+#info-customer h1,
+#info-order h1{
+    font-size: 20px;
+    color: #0ac5b9;
+}
+#wrapper #redirect a{
+    padding: 5px;
+    border: 1px solid #616161;
+    background: #5355ea;
+    color: white;
+    border-radius: 3px;
+}
